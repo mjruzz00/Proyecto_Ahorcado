@@ -1,0 +1,13 @@
+Correccion Contexto:
+*Corregi el contexto de mi proyecto anexando limitaciones.
+*Corregi el contexto de mi proyecto anexando instrucciones de juego.
+
+Corrección de UML:
+*Corregi el formato de entrega ahora esta en una aplicacion hecho de formato digital.
+*Corregi la herencia y agregación que hizo falta en mi entrega anterior.
+
+
+Correccion Codigo:
+*Divide mi proyecto en clases, ya no esta todo junto en un main.
+*Mi codigo ya esta dividido en .h y .cpp.
+*Mi juego de ahorcado ahora tienen nombre "HangMan Game", su nombre se debe a mi fanatismo por la lucha libre EN USA (WWE, AEW) nombre del tema de presentacion de la super estrella Adam Page.
