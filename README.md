@@ -30,6 +30,7 @@ De modo quje mi proyecto impulsara a la educación y la tecnologia en uno solo.
 6. Ingresar letras hasta adivinar la palabra.
 
 *LIMITACIONES*
+
 A pesar que mi proyecto es una juego "sencillo", tiene ciertas limitaciones:
 *La primer letra a adivinar siempre se debera escribir en mayusculas para que se valide con el programa.
 *Puedes asignarte tantas vidas como quieras.
